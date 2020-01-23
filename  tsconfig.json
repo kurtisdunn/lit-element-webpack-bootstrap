@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+      "rootDir": "./",
+      "outDir": "./dist/",
+      "noImplicitAny": true,
+      "module": "es5",
+      "lib": ["es5", "es6", "dom"],  
+      "jsx": "react",
+      "allowJs": true,
+      "moduleResolution": "node"
+    },
+    "include": [
+        "**/*"
+      ],
+      "exclude": [
+        "node_modules"
+      ],
+      "typeAcquisition": {
+        "enable": true
+      }
+    }
+  }
