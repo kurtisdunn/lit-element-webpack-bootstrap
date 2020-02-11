@@ -1,7 +1,6 @@
 ## lit-element-webpack-bootstrap
 Polymer Typescript Webpack.. 
 
-Currently in alpha.. Build Failing.
 
 
 
